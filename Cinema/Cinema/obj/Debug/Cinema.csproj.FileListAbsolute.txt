@@ -1,0 +1,11 @@
+M:\Study\Cinema\Cinema\bin\Debug\DBase.mdf
+M:\Study\Cinema\Cinema\bin\Debug\DBase_log.ldf
+M:\Study\Cinema\Cinema\bin\Debug\Cinema.exe.config
+M:\Study\Cinema\Cinema\bin\Debug\Cinema.exe
+M:\Study\Cinema\Cinema\bin\Debug\Cinema.pdb
+M:\Study\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+M:\Study\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+M:\Study\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+M:\Study\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+M:\Study\Cinema\Cinema\obj\Debug\Cinema.exe
+M:\Study\Cinema\Cinema\obj\Debug\Cinema.pdb
